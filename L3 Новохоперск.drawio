@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T15:08:18.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="wL-PIOcXQFfktiWL9r0v" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T15:08:42.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="ezp3Xf9dBcNcfCOaijsw" version="15.7.0" type="github">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,20 +243,6 @@
         </mxCell>
         <mxCell id="58_N4NvC8-cw4pMC1R1P-13" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1520" y="900" width="78" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="J0VGMc1RVm48U5fGLF9g-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontColor=#3333FF;strokeColor=#3333FF;opacity=50;shape=link;entryX=0.406;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.28;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="58_N4NvC8-cw4pMC1R1P-11" target="1c7a67bf8fd3230f-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="810" as="sourcePoint" />
-            <mxPoint x="940" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J0VGMc1RVm48U5fGLF9g-14" value="l2tp66FC&lt;br&gt;l2tp61FC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#33001A;" vertex="1" connectable="0" parent="J0VGMc1RVm48U5fGLF9g-12">
-          <mxGeometry x="-0.6803" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="58_N4NvC8-cw4pMC1R1P-11" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="659" y="900" width="78" height="53" as="geometry" />
